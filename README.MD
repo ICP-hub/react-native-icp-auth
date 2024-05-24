@@ -1,11 +1,11 @@
-# react-native-icp-auth
+# react_native-icp-auth
 
 A helper package for react native developers to authenticate using internet identity
 
 ## Installation
 
 ```bash
-npm i --force react-native-icp-auth
+npm i --force react_native-icp-auth
 ```
 
 ## Peer dependency [polyfills](https://www.npmjs.com/search?q=react-native-webview-crypto)
